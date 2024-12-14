@@ -1,4 +1,6 @@
-"use client"
+"use client";
+
+
 import dynamic from 'next/dynamic';
 import React, { useEffect, useState } from 'react'
 import { getJournalEntry } from '@/actions/journal';
